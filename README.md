@@ -84,14 +84,6 @@ Anthos on AWS [install instructions](https://github.com/GoogleCloudPlatform/anth
 
 ## Links
 - [Install instructions and repo](https://github.com/GoogleCloudPlatform/anthos-samples/tree/main/anthos-multi-cloud/AWS)
-- [“Powered By Anthos”](https://sites.google.com/corp/google.com/poweredbyanthos/home)  pre-canned demo environment
-- [Bug re: KMS errors](https://b.corp.google.com/issues/275707975) encountered on fresh AWS environments.
-- [Brian’s Multi-cloud customer deck](go/anthos-multicloud-customer-deck)
-- [My fork](https://github.com/gfilicetti/csp-config-management) of the Anthos Config Management example repository
-    - This is where you make changes for the demo
-    - They will be propagated to the clusters you enable
-- Crossplane: [Brian’s demo repo](https://github.com/bkauf/anthos-crossplane-demo)
-
 
 ## Author
 Gino Filicetti <ginof@>
